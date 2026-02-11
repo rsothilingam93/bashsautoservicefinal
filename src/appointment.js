@@ -38,7 +38,7 @@ const AppointmentsPage = () => {
     );
 
     // Open user's email client with pre-filled email
-    window.location.href = `mailto:rohithsothi@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:bashsauto@gmail.com?subject=${subject}&body=${body}`;
 
     setSubmitted(true);
   };
