@@ -117,12 +117,10 @@ const styles = {
     transition: "transform 0.2s ease",
   },
   image: {
-  width: "100%",
-  height: "auto",
-  objectFit: "contain",
-  maxHeight: "250px",
-  display: "block",
-  margin: "0 auto",
+    maxWidth: "100%",          // scale to container width
+    maxHeight: "100%",         // scale to container height
+    objectFit: "contain",      // maintain aspect ratio without cropping
+    display: "block",
   },
   info: {
     padding: "15px",
@@ -140,6 +138,11 @@ const styles = {
   },
   imageContainer: {
     position: "relative",
+    height: "250px",           // fixed height for all images
+    display: "flex",           // centers the image
+    justifyContent: "center",
+    alignItems: "center",
+    overflow: "hidden",
   },
   arrow: {
     position: "absolute",
