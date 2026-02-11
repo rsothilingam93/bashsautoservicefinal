@@ -117,9 +117,12 @@ const styles = {
     transition: "transform 0.2s ease",
   },
   image: {
-    width: "100%",
-    height: "180px",
-    objectFit: "cover",
+  width: "100%",
+  height: "auto",
+  objectFit: "contain",
+  maxHeight: "250px",
+  display: "block",
+  margin: "0 auto",
   },
   info: {
     padding: "15px",
