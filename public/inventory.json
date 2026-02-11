@@ -2,9 +2,9 @@
   {
     "images": [
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015(2).jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015(3).jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015(4).jpg"
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015_2.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015_3.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/nissan_murano_2015_4.jpg"
     ],
     "price": "$17,500 + tax",
     "mileage": "90,000 km",
@@ -14,9 +14,9 @@
   {
     "images": [
       "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015.jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015(2).jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015(3).jpg",
-      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015(4).jpg"
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015_2.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015_3.jpg",
+      "https://raw.githubusercontent.com/rsothilingam93/bashsautoservice/main/images/honda_accord_2015_4.jpg"
     ],
     "price": "$17,850 + tax",
     "mileage": "97,000 km",
