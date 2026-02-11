@@ -70,6 +70,9 @@ const CarCard = ({ car }) => {
       <div style={styles.info}>
         <p style={styles.price}>{car.price}</p>
         <p style={styles.detail}>
+          <strong>Name:</strong> {car.name}
+        </p>
+        <p style={styles.detail}>
           <strong>Mileage:</strong> {car.mileage}
         </p>
         <p style={styles.detail}>
