@@ -5,7 +5,7 @@ import ContactSection from "./ContactSection";
 import HeroBanner from "./HeroBanner";
 import Navbar from "./Navbar"; // ✅ Importing Navbar
 import "./App.css";
-import { Link, useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 
 const Home = () => {
   const location = useLocation();
